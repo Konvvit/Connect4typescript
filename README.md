@@ -1,3 +1,7 @@
+#LIVE DEMO 
+https://konvvit.github.io/Connect4typescript/
+
+
 # Connect4 React TypeScript
 
 This is a Connect 4 game built using Vite, React, and TypeScript. The game allows you to play against another player or an AI opponent with two difficulty levels: "Easy" (random moves) and "Hard" (coded opponent).
